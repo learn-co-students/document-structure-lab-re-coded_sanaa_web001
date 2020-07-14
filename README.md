@@ -5,7 +5,7 @@
 Every HTML document has a specific set of required tags. Because these are
 required _every_ time we create a web page, it is valuable to gain a more
 in-depth understanding of what these tags do and why they are useful and how
-they work in context to the modern web.
+they work in context to the modern web.مثشق
 
 In this lesson, we will be both reviewing what we have learned about a well
 formed HTML document and expanding a bit on the `doctype`, `html` and `head`
